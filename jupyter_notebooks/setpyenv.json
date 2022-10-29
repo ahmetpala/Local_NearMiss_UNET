@@ -1,0 +1,10 @@
+{
+    "syspath": "/crimac_unet/",
+    "path_to_echograms": "/data/2019/S2019847/",
+    "path_to_korona_data": "/data/2019/S2019847/ACOUSTIC/GRIDDED/S2019847_sv.zarr",
+    "path_to_korona_transducer_depths": "/data/2019/S2019847/ACOUSTIC/GRIDDED/S2019847_sv.zarr",
+    "path_to_trained_model": "/mnt/c/DATAscratch/crimac-scratch/NR_Unet/paper_v2_heave_2.pt",
+    "path_to_zarr_files": "/data/2019/S2019847/",
+    "path_for_saving_figs": "/data/2019/S2019847/ACOUSTIC/GRIDDED/S2019847_sv.zarr",
+    "path_for_saving_preds_labels": "/data/2019/S2019847/ACOUSTIC/GRIDDED/S2019847_sv.zarr"
+}

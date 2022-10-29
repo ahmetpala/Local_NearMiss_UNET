@@ -1,0 +1,10 @@
+{
+    "syspath": "/home/a39083/UNET-Sampling/crimac_unet",
+    "path_to_echograms": "/data/",
+    "path_to_korona_data": "/data/",
+    "path_to_korona_transducer_depths": "/data/",
+    "path_to_trained_model": "/home/a39083/UNET-Sampling/crimac_unet/created_trained_model",
+    "path_to_zarr_files": "/data/",
+    "path_for_saving_figs": "/data/saved_outputs/saved_figures",
+    "path_for_saving_preds_labels": "/data/saved_outputs/pred_labels"
+}
