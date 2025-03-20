@@ -36,7 +36,6 @@ class BackgroundZarr():
                                            n_range=self.window_size[0],
                                            drop_na=False,
                                            return_numpy=False)
-
         # Check if any fish-labels in crop
         if (labels > 0).any() or (labels == -1).all(): # Possible bottleneck?
             return self.get_sample()
